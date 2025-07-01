@@ -1,0 +1,63 @@
+{
+  "app": {
+    "title": "एयरस्कोप",
+    "subtitle": "वायु गुणवत्ता साथी"
+  },
+  "navigation": {
+    "home": "होम",
+    "forecast": "पूर्वानुमान",
+    "history": "इतिहास",
+    "map": "मानचित्र",
+    "community": "समुदाय",
+    "eco": "पर्यावरण सुझाव",
+    "profile": "प्रोफाइल"
+  },
+  "home": {
+    "title": "वायु गुणवत्ता डैशबोर्ड",
+    "currentLocation": "वर्तमान स्थान",
+    "searchPlaceholder": "शहर का नाम दर्ज करें...",
+    "lastUpdated": "अंतिम अपडेट",
+    "dominantPollutant": "मुख्य प्रदूषक",
+    "healthTips": "स्वास्थ्य सुझाव",
+    "offline": "ऑफलाइन - अंतिम ज्ञात डेटा दिखा रहे हैं"
+  },
+  "aqi": {
+    "good": "अच्छा",
+    "moderate": "मध्यम",
+    "unhealthySensitive": "संवेदनशील समूहों के लिए अस्वस्थ",
+    "unhealthy": "अस्वस्थ",
+    "veryUnhealthy": "बहुत अस्वस्थ",
+    "hazardous": "खतरनाक"
+  },
+  "forecast": {
+    "title": "वायु गुणवत्ता पूर्वानुमान",
+    "next24h": "अगले 24 घंटे",
+    "next72h": "अगले 72 घंटे",
+    "trend": "रुझान विश्लेषण"
+  },
+  "community": {
+    "title": "समुदायिक रिपोर्ट",
+    "reportIncident": "घटना की रिपोर्ट करें",
+    "incidentTypes": {
+      "smog": "धुंध",
+      "cropBurning": "फसल जलाना",
+      "industrial": "औद्योगिक प्रदूषण",
+      "traffic": "यातायात प्रदूषण",
+      "other": "अन्य"
+    }
+  },
+  "eco": {
+    "title": "पर्यावरण सलाहकार",
+    "greenScore": "आपका हरित स्कोर",
+    "dailyTip": "दैनिक हरित सुझाव",
+    "challenges": "पर्यावरण चुनौतियां",
+    "badges": "आपके बैज"
+  },
+  "profile": {
+    "title": "प्रोफाइल",
+    "settings": "सेटिंग्स",
+    "alerts": "अलर्ट सेटिंग्स",
+    "language": "भाषा",
+    "locations": "पसंदीदा स्थान"
+  }
+}

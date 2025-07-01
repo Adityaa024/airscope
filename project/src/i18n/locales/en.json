@@ -1,0 +1,63 @@
+{
+  "app": {
+    "title": "AirScope",
+    "subtitle": "Air Quality Companion"
+  },
+  "navigation": {
+    "home": "Home",
+    "forecast": "Forecast",
+    "history": "History",
+    "map": "Map",
+    "community": "Community",
+    "eco": "Eco Tips",
+    "profile": "Profile"
+  },
+  "home": {
+    "title": "Air Quality Dashboard",
+    "currentLocation": "Current Location",
+    "searchPlaceholder": "Enter city name...",
+    "lastUpdated": "Last updated",
+    "dominantPollutant": "Dominant Pollutant",
+    "healthTips": "Health Tips",
+    "offline": "Offline - Showing last known data"
+  },
+  "aqi": {
+    "good": "Good",
+    "moderate": "Moderate",
+    "unhealthySensitive": "Unhealthy for Sensitive Groups",
+    "unhealthy": "Unhealthy",
+    "veryUnhealthy": "Very Unhealthy",
+    "hazardous": "Hazardous"
+  },
+  "forecast": {
+    "title": "Air Quality Forecast",
+    "next24h": "Next 24 Hours",
+    "next72h": "Next 72 Hours",
+    "trend": "Trend Analysis"
+  },
+  "community": {
+    "title": "Community Reports",
+    "reportIncident": "Report Incident",
+    "incidentTypes": {
+      "smog": "Smog",
+      "cropBurning": "Crop Burning",
+      "industrial": "Industrial Pollution",
+      "traffic": "Traffic Pollution",
+      "other": "Other"
+    }
+  },
+  "eco": {
+    "title": "Eco Advisory",
+    "greenScore": "Your Green Score",
+    "dailyTip": "Daily Green Tip",
+    "challenges": "Eco Challenges",
+    "badges": "Your Badges"
+  },
+  "profile": {
+    "title": "Profile",
+    "settings": "Settings",
+    "alerts": "Alert Settings",
+    "language": "Language",
+    "locations": "Preferred Locations"
+  }
+}
